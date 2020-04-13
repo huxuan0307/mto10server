@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11 -pthread    CMakeFiles/mto10server.dir/main.cpp.o  -o mto10server  -L/usr/lib64/mysql -rdynamic src/libmd5.a src/libdatabase.a src/libtools.a -lmysqlclient src/libserver.a TCP/libTcpServer.a -lcrypto src/libdatabase.a src/libtools.a -Wl,-rpath,/usr/lib64/mysql 

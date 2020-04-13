@@ -1,0 +1,7 @@
+/root/ComputerNetwork/project/mto10server/TCP/CMakeFiles/TcpServer.dir
+/root/ComputerNetwork/project/mto10server/src/CMakeFiles/database.dir
+/root/ComputerNetwork/project/mto10server/src/CMakeFiles/md5.dir
+/root/ComputerNetwork/project/mto10server/CMakeFiles/mto10_read.dir
+/root/ComputerNetwork/project/mto10server/CMakeFiles/mto10server.dir
+/root/ComputerNetwork/project/mto10server/src/CMakeFiles/server.dir
+/root/ComputerNetwork/project/mto10server/src/CMakeFiles/tools.dir

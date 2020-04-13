@@ -1,0 +1,2 @@
+/usr/bin/ar cr libdatabase.a  CMakeFiles/database.dir/database.cpp.o
+/usr/bin/ranlib libdatabase.a

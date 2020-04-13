@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/mto10_read.dir/mto10_read.cpp.o  -o mto10_read  -L/usr/lib64/mysql  -L../src -rdynamic -lmysqlclient -ltools -Wl,-rpath,/usr/lib64/mysql:../src 

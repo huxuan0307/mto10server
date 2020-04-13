@@ -1,0 +1,2 @@
+/usr/bin/ar cr libserver.a  CMakeFiles/server.dir/mto10server.cpp.o CMakeFiles/server.dir/mto10session.cpp.o
+/usr/bin/ranlib libserver.a

@@ -1,0 +1,2 @@
+/root/ComputerNetwork/project/mto10server/db/CMakeFiles/CreateRandomUsers.dir
+/root/ComputerNetwork/project/mto10server/db/CMakeFiles/mto10_read.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libTcpServer.a  CMakeFiles/TcpServer.dir/Channel.cpp.o CMakeFiles/TcpServer.dir/EventLoop.cpp.o CMakeFiles/TcpServer.dir/Poller.cpp.o CMakeFiles/TcpServer.dir/Socket.cpp.o CMakeFiles/TcpServer.dir/TcpServer.cpp.o CMakeFiles/TcpServer.dir/TcpConnection.cpp.o
+/usr/bin/ranlib libTcpServer.a

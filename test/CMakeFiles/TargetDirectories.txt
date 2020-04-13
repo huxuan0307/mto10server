@@ -1,0 +1,2 @@
+/root/ComputerNetwork/project/mto10server/test/CMakeFiles/distro_test.dir
+/root/ComputerNetwork/project/mto10server/test/CMakeFiles/regex_test.dir

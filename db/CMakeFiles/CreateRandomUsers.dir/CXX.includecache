@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/md5.h
+string
+-
+cstring
+-
+
+/root/ComputerNetwork/project/mto10server/db/CreateRandomUser.cpp
+iostream
+-
+mysql/mysql.h
+-
+string
+-
+sstream
+-
+fstream
+-
+iomanip
+-
+md5.h
+-
+fstream
+-
+
